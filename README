@@ -1,0 +1,11 @@
+CS454 Assignment 3
+
+To build,
+make
+make server
+make client
+
+To run,
+./binder
+./server
+./client
